@@ -9,3 +9,4 @@ data/*
 !data/host_qtapp/tray.png
 # ignore all documentation for now
 docs/*
+preview/*
